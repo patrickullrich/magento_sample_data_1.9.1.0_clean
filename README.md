@@ -5,6 +5,8 @@ Removed duplicate files, JPGmini-fied all files, Removed unused files
 
 It's based on the default magento sample data packages available through [http://www.magentocommerce.com/downloads/assets/1.9.1.0/magento-sample-data-1.9.1.0.tar.gz](http://www.magentocommerce.com/downloads/assets/1.9.1.0/magento-sample-data-1.9.1.0.tar.gz)
 
+Installation of the sample data follows the [Magento documentation](http://devdocs.magento.com/guides/m1x/install/installing_install.html#install-sample).
+
 ## What I did
 * Used Photosweeper to identify and remove duplicate images + some handcrafted file renaming
 * Used JPEGmini to almost lossless compress all jpg files
